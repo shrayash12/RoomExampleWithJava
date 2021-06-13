@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RoomExampleWithJava</string>
+    <string name="enter_name">enter name</string>
+    <string name="enter_lastname">enter lastname</string>
+    <string name="enter_address">enter address</string>
+    <string name="enter_marks">enter marks</string>
+    <string name="save">Save</string>
+</resources>
